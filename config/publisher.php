@@ -33,11 +33,11 @@ return [
     |
      */
     'fb_app_setting'     => [
-        'app_id'                => '',
-        'app_secret'            => '',
+        'app_id'                => '477359682460027',
+        'app_secret'            => '726e6ec5bb3e139452725621aed0506a',
         'default_graph_version' => 'v2.5',
     ],
-    'fb_page_token'      => '',
+    'fb_page_token'      => 'CAAGyJZCZANmXsBAEXblkyyPP5CYBtsXNA6pRu5BMAFrZCvib2ZAfwQYw5D9HfCUZBE758EwTBF10z4SoFK7fPwlvNm6gymYvwLejJSYo0HJ7ZCm73j7l29puO7ZB0MaFLr3lNhhDmpqL1JSB4ZA75LZChNpZAj1wYWr9GoLdFMcM6AZB489j8c2JpSfOSMTPzw5PdEZD',
 
     /*
     |--------------------------------------------------------------------------
@@ -49,7 +49,7 @@ return [
     |   https://www.google.com/recaptcha/intro/index.html
     |
      */
-    'recaptcha_key'      => '',
-    'recaptcha_secret'   => '',
+    'recaptcha_key'      => '6LdDxx0TAAAAAOwS5RT5sEWsU631_nLN657nobU1',
+    'recaptcha_secret'   => '6LdDxx0TAAAAANGL083hYeUnC-goHq4RyK4H0xqE',
 
 ];
